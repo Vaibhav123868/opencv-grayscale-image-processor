@@ -89,5 +89,4 @@ save  - Save the grayscale image
 
 ## Author
 
-Vaibhav Dhiman
-B.Tech Computer Science and Engineering Student
+Vaibhav Dhiman
